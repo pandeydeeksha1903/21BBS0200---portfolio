@@ -1,2 +1,1 @@
-# 21BBS0200---portfolio
-Describing my skill set and experience !
+Hello, I am Deeksha Pandey, and this portfolio gives a glipmse of my technical expertise.
